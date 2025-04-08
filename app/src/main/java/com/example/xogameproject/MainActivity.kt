@@ -192,4 +192,4 @@ class MainActivity : AppCompatActivity() {
         binding.cardO.strokeWidth = 2
         binding.cardX.strokeWidth = 0
     }
-} 
+}
