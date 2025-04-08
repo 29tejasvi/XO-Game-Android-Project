@@ -6,11 +6,11 @@ A modern, responsive XO (Tic Tac Toe) game built using **Kotlin**, **ViewBinding
 
 ## 📱 Screenshots and Demo
 
-[Demo Video](recording/Screen_recording_.mp4)
+[Demo Video]([recording/Screen_recording_.mp4](https://github.com/29tejasvi/XO-Game-Android-Project/blob/master/recording/Screen_recording_.mp4))
 
 | Home Screen | Gameplay | Win Animation |
 |-------------|----------|----------------|
-|![App Screenshot](recording/Screenshot_20250408_111304.png)| ![App Screenshot](recording/gameUiSs.pn)| ![App Screenshot](recording/gameplaying.png)|
+|![App Screenshot](https://github.com/29tejasvi/XO-Game-Android-Project/blob/master/recording/Screenshot_20250408_111304.png)| ![App Screenshot](https://github.com/29tejasvi/XO-Game-Android-Project/blob/master/recording/gameplaying.png)| ![App Screenshot](https://github.com/29tejasvi/XO-Game-Android-Project/blob/master/recording/gameplaying.png)|
 
 ---
 
