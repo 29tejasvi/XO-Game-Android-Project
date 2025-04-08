@@ -10,10 +10,7 @@ A modern, responsive XO (Tic Tac Toe) game built using **Kotlin**, **ViewBinding
 
 | Home Screen | Gameplay | Win Animation |
 |-------------|----------|----------------|
-|![App Screenshot](recording/Screenshot_20250408_111304.png)
-| ![App Screenshot](recording/gameUiSs.png)
- | ![App Screenshot](recording/gameplaying.png)
-|
+|![App Screenshot](recording/Screenshot_20250408_111304.png)| ![App Screenshot](recording/gameUiSs.pn)| ![App Screenshot](recording/gameplaying.png)|
 
 ---
 
