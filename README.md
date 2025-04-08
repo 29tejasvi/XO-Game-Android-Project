@@ -6,7 +6,7 @@ A modern, responsive XO (Tic Tac Toe) game built using **Kotlin**, **ViewBinding
 
 ## 📱 Screenshots and Demo
 
-[Demo](recording/Screen_recording_.mp4)
+[Demo Video](recording/Screen_recording_.mp4)
 
 | Home Screen | Gameplay | Win Animation |
 |-------------|----------|----------------|
